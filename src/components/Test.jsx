@@ -6,12 +6,12 @@ const Test = () => {
     <div>
       <Helmet>
         <title>Dynamic Page Title</title>
-        <meta property="og:title" content="Dynamic Page Title" />
-        <meta property="og:description" content="A brief description of this page." />
-        <meta property="og:image" content="https://yourapp.com/path/to/dynamic-image.jpg" />
-        <meta property="og:url" content="https://yourapp.com/dynamic-page" />
+        <meta property="og:title" content="some title" />
+        <meta property="og:description" content="some description" />
+        <meta property="og:image" content="https://somecuteimage.jpg" />
+        <meta property="og:url" content="https://amaldeeppatra.vercel.app" />
       </Helmet>
-      <h1>Hello, World!</h1>
+      <h1>Hello World!</h1>
     </div>
   );
 };
